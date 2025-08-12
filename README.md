@@ -16,5 +16,3 @@
 - ✅ Chess-inspired piece logic
 - ✅ Two-player local mode
 - ✅ Simple, responsive UI
-
-## 📁 Project Structure
